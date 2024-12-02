@@ -3245,6 +3245,7 @@ h6 {
 }
 .about-container-wrapper.style1 .about-thumb .thumb1 img {
   width: 100%;
+  height: 10px;
 }
 @media (max-width: 991px) {
   .about-container-wrapper.style1 .about-thumb .thumb1 {
@@ -9107,11 +9108,11 @@ h6 {
   z-index: 1;
 }
 .hero-thumb.style2 .main-thumb img {
-  border-radius: 250px 0px 0px 0px;
-  -webkit-border-radius: 250px 0px 0px 0px;
-  -moz-border-radius: 250px 0px 0px 0px;
-  -ms-border-radius: 250px 0px 0px 0px;
-  -o-border-radius: 250px 0px 0px 0px;
+  border-radius: 0px 0px 0px 0px;
+  -webkit-border-radius: 30px 30px 30px 30px;
+  -moz-border-radius: 30px 0px 0px 0px;
+  -ms-border-radius: 30px 0px 0px 0px;
+  -o-border-radius: 30px 0px 0px 0px;
 }
 .hero-thumb.style2 .video-box {
   position: absolute;
